@@ -1,2 +1,0 @@
-# algraph
-api version
